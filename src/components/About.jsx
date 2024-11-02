@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a Java Professional with 12 months of internship experience in core and advanced Java, Oracle, and Spring Boot.
+        I am a Java Professional with 3.2 months of experience in core and advanced Java, Oracle, and Spring Boot.
         Proven communicator, committed to surpassing project goals and client expectations. Successfully orchestrated
         projects like Truck Fleet Management System and Event Management Integration with Stripe Payment Gateway,
         leveraging Spring Boot, Microservices, and Java frameworks. Enhanced efficiency and elevated customer
