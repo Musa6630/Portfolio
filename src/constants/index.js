@@ -117,24 +117,21 @@ const technologies = [
 
 const experiences = [
   {
-    title: "FullStack Developer",
-    company_name: "The Sparks Foundation",
+    title: "Software Engineer",
+    company_name: "Winjit Technology Pvt Ltd",
     icon: spark,
     iconBg: "#383E56",
-    date: "November 2021 - December 2021",
+    date: "June 2024 -  Currently working",
     points: [
-      "Developed REST API endpoints for a truck fleet management system using Java, Spring Boot, and advanced security measures during a 2-month internship.",
-      "Scaled the implementation of REST API endpoints to facilitate seamless communication and data exchange within the truck fleet management system.",
-      "Conducted code reviews, resolving 90% of bugs and enhancing application performance by 15%",
-      "Achieved an on-time delivery rate of 95% by utilizing Agile methodologies and delivering software modules within tight deadlines.",
+      "Working on OPS 360 Application and portal",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Micro Analytical Technologies Pvt Ltd",
+    title: "Java Backend Engineer",
+    company_name: "Unitrans Infotech Services",
     icon: micro,
     iconBg: "#E6DEDD",
-    date: "November 2022 - October 2023",
+    date: "March 2021 - May 2024",
     points: [
       "Played a pivotal role among a team of ten developers on the Event Booking System project, achieving high efficiency in delivering a comprehensive web application for event management using React and Java/J2EE.",
       "Integrated Java applications with databases (e.g., Oracle, MySQL, PostgreSQL), optimizing database schemas and executing SQL queries for seamless data retrieval and storage.",
@@ -200,9 +197,12 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Task Ease CRUD API",
+    name: "Realtor - Revolutionizing Real Estate Solutions:",
     description:
-      "TaskEase Notes is a dynamic web app highlighting my full-stack skills. Built with React, and MongoDB, it featuressecure user authentication, intuitive note management, and real-time feedback. Demonstrates my commitment to crafting efficient and user-friendly applications.",
+      "Realtor redefines the real estate landscape by offering a seamless platform for direct property transactions in US.
+Bridging the gap between owners and tenants/buyers, realtor provides a transparent and efficient experience.With
+advanced features and comprehensive services, realtor empowers users to navigate the property market with ease and
+confidence.",
     tags: [
       {
         name: "react",
@@ -217,8 +217,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: Taskease,
-    source_code_link: "https://github.com/Musa6630/TaskEase-CRUD_API",
+  //  image: Taskease,
+  //  source_code_link: "https://github.com/Musa6630/TaskEase-CRUD_API",
   },
   {
     name: "Bus Buddy",
